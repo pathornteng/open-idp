@@ -2,7 +2,7 @@
 
 ### Project Summary
 
-OpenIDP is an open-source project created to be a testing IdP. OpenIDP currently is still in a development process and there are a lot to be done. However, it can work as a test base for OpenID Connect 1.0. No security is guaranteed. DO NO USE THIS CODE IN PRODUCTION
+OpenIDP is an open-source project created to be a testing IdP. OpenIDP currently is still in development process and there are a lot to be done. However, it can work as a test base for OpenID Connect 1.0. No security is guaranteed. DO NOT USE THIS CODE IN PRODUCTION
 
 ### Installation
 
