@@ -17,8 +17,8 @@ npm start
 ### Run
 
 ```bashp
-cp config.example.json config.json
-vi config.json 
+vi config.json //edit configuration for your environment
+vi db/mongoose.js //edit location of moongodb
 npm start
 ```
 
