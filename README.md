@@ -25,8 +25,8 @@ npm start
 ### Usage
 
 ```bashp
-go to http://localhost:3002 // this is a default port
-username: admin, password: P@ssw0rd // this a default username/password
+go to http://localhost:3002 // this is the default port
+username: admin, password: P@ssw0rd // this is the default username/password from seed.js
 ```
 
 
