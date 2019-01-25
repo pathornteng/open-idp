@@ -43,7 +43,9 @@ class OAuthController {
 
   async jwks(req, res, next) {
     const jwk = await keyService.getJwk();
-    const data = [jwk];
+    const data = {
+      "keys": [jwk]
+    };
     res.json(data);
   }
 }
